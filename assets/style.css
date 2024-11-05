@@ -60,6 +60,7 @@ body {
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
+    text-shadow: 0 0 8px rgba(255, 205, 210, 0.8), 0 0 16px rgba(255, 205, 210, 0.6); /* Brilho */
 }
 
 .cartao.active .cartao__conteudo {
@@ -79,6 +80,7 @@ body {
     transform: rotateY(180deg);
     background-color: rgba(0, 244, 191, 0.2);
     border: 4px solid var(--card-back-color);
+    box-shadow: 0 0 8px rgba(255, 205, 210, 0.8), 0 0 16px rgba(255, 205, 210, 0.6); /* Brilho */
 }
 
 footer {
