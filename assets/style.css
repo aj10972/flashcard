@@ -1,7 +1,7 @@
 :root {
     --text-color: #FFFFFF;
     --card-front-color: #C2185B;
-    --card-back-color: #FF0A9F;
+    --card-back-color: FF80AB;
 }
 
 body {
@@ -114,5 +114,4 @@ footer p {
 
     .cartao__conteudo p {
         font-size: 3.8vw;
-    }
-}
+    
