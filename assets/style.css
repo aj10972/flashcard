@@ -1,8 +1,7 @@
-
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #FFFFFF;
+    --card-front-color: #C2185B;
+    --card-back-color: #FFCDD2;
 }
 
 body {
