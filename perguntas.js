@@ -1,29 +1,29 @@
 criaCartao(
     'Geografia',
     'Qual é o maior oceano do mundo?',
-    'O maior oceano do mundo é o Oceano Pacífico'
+    'O maior oceano é o Pacífico.'
 )
 
 criaCartao(
     'Charada',
     'O que é leve como uma pluma, mas nem o homem mais forte consegue segurar?',
-    'O fôlego'
+    'O fôlego.'
 )
 
 criaCartao(
     'Ciências',
-    'Qual é o elemento químico com o símbolo H?',
-    'O elemento com o símbolo H é o hidrogênio'
+    'Qual gás é o mais abundante na atmosfera terrestre?',
+    'É o nitrogênio.'
 )
 
 criaCartao(
     'Charada',
     'O que é que tem muitas chaves, mas não pode abrir portas?',
-    'Um piano'
+    'Um piano.'
 )
 
 criaCartao(
     'Arte',
-    'Quem pintou a Mona Lisa?',
-    'A Mona Lisa foi pintada por Leonardo da Vinci'
+    'Qual artista é conhecido por sua obra "A Noite Estrelada"?',
+    'Vincent van Gogh.'
 )
